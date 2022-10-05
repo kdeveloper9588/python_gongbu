@@ -1,0 +1,1 @@
+__all__ = ["vietnam", "Thailand"]#모듈 정의
